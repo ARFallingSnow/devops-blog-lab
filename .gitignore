@@ -1,0 +1,14 @@
+# Python
+.venv/
+
+# Pyton cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+#Linux
+*.swp
+
+
